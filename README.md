@@ -65,5 +65,4 @@ This project is a part of the **CODTECH Technologies** internship task. It demon
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/OBULESH597/Weather-API.git
-cd codtech-weather-task
+https://github.com/Mlatheesh13/API-INTEGRATION.git
